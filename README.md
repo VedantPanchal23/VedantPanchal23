@@ -70,7 +70,7 @@ vedant = {
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/VedantPanchal23/Web-IDE"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/VedantPanchal23/OrionIDE"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>Dayflow — HR Management System</h3>
@@ -81,7 +81,7 @@ vedant = {
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
-      <a href="https://github.com/VedantPanchal23"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Venisha31/DayFlow"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -157,11 +157,6 @@ vedant = {
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VedantPanchal23&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPanchal23&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VedantPanchal23&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
