@@ -205,14 +205,19 @@ Real-time placement eligibility rule engine: CGPA · backlog · branch rules per
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VedantPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPanchal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VedantPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars&cache_seconds=1800" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPanchal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=VedantPanchal23&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantPanchal23&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=VedantPanchal23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
 
