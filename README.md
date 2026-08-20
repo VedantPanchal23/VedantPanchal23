@@ -201,31 +201,30 @@ Real-time placement eligibility rule engine: CGPA · backlog · branch rules per
 
 ---
 
-## 📊 Stats
+## 📊 Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VedantPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars&cache_seconds=1800" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPanchal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<!-- GitHub native activity — always works, no third-party dependency -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantPanchal23&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/VedantPanchal23)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantPanchal23&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VedantPanchal23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
+| 🧠 AI / ML | ⚙️ Backend | 🌐 Frontend | 🗄️ Databases |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) | ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
+
+> **Setup required:** Add the snake GitHub Action to your repo to generate this. Run the workflow once and the snake will appear here automatically.
+>
+> Until then — visit [github.com/VedantPanchal23](https://github.com/VedantPanchal23) to see the live contribution graph.
 
 <div align="center">
   <picture>
