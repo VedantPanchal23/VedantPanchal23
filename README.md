@@ -205,10 +205,14 @@ Real-time placement eligibility rule engine: CGPA · backlog · branch rules per
 
 <div align="center">
 
-<a href="https://github.com/VedantPanchal23">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VedantPanchal23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPanchal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+![Repos](https://img.shields.io/badge/Public_Repos-20+-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Internships](https://img.shields.io/badge/Internships-2-6DB33F?style=for-the-badge&logo=briefcase&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-2-FF6B35?style=for-the-badge&logo=trophy&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.6_/_10-FFD21E?style=for-the-badge&logo=graduation-cap&logoColor=black)
+
+<br/>
+
+![Languages](https://img.shields.io/badge/Languages-Python_·_Java_·_JavaScript_·_SQL_·_C++-3776AB?style=for-the-badge&logoColor=white)
 
 </div>
 
