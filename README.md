@@ -201,28 +201,18 @@ Real-time placement eligibility rule engine: CGPA · backlog · branch rules per
 
 ---
 
-## 📊 Stats
+## 📊 Activity
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public_Repos-20+-58A6FF?style=for-the-badge&logo=github&logoColor=white)
-![Internships](https://img.shields.io/badge/Internships-2-6DB33F?style=for-the-badge&logo=briefcase&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-2-FF6B35?style=for-the-badge&logo=trophy&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.6_/_10-FFD21E?style=for-the-badge&logo=graduation-cap&logoColor=black)
-
-<br/>
-
-![Languages](https://img.shields.io/badge/Languages-Python_·_Java_·_JavaScript_·_SQL_·_C++-3776AB?style=for-the-badge&logoColor=white)
+<!-- GitHub native activity — always works, no third-party dependency -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedantPanchal23&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/VedantPanchal23)
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
-> **Setup required:** Add the snake GitHub Action to your repo to generate this. Run the workflow once and the snake will appear here automatically.
->
-> Until then — visit [github.com/VedantPanchal23](https://github.com/VedantPanchal23) to see the live contribution graph.
 
 <div align="center">
   <picture>
