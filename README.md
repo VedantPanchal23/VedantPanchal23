@@ -44,25 +44,30 @@ class Vedant:
 
 <div align="center">
 
-### 🏥 Zydus Pharma — AI Predictive Maintenance System
+### 🏥 Zydus Lifesciences — AI Predictive Maintenance & Oncology Asset Intelligence
 
 </div>
 
 ```
-Real-time ML platform monitoring 20 critical oncology equipment units at Zydus Pharma Oncology Pvt. Ltd.
-Live sensor telemetry streams via Apache Kafka → TimescaleDB → PyTorch + XGBoost ensemble models.
-Grafana dashboards · MLflow experiment tracking · Airflow automated retraining DAGs · Docker Compose.
-Machines predict failures and raise work orders before engineers notice anything is wrong.
+Real-time AI/IoT platform monitoring 20 pharmaceutical cleanroom & oncology radiation units at Zydus Lifesciences.
+Live industrial telemetry streams via OPC-UA & Apache Kafka → TimescaleDB → Physics-Informed ML Ensemble (XGBoost + LSTM Autoencoder).
+Kernel SHAP root-cause attribution · US FDA 21 CFR Part 11 SHA-256 cryptographic audit trails
+· ReportLab PDF Dossiers. Airflow automated PSI drift retraining DAGs · Swiss Clinical UI · Batch risk mitigation up to ₹9.5 Crore INR per asset.
 ```
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FDA 21 CFR Part 11](https://img.shields.io/badge/FDA_21_CFR_Part_11-Validated-0052CC?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPOSITORY_→-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantPanchal23/zydus-predictive-maintenance)
 
